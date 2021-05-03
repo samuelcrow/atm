@@ -1,0 +1,19 @@
+button {
+    background-color: #0c80f3;
+    border: 6px solid #0ff166;
+    border-radius: 10px;
+    width: 150px;
+}
+body {
+    background-color: #F2CF63;
+    margin: 5px;
+    text-align: center;
+    color: #58595B;
+}
+#mode-select, #number-input, #select-input {
+    background-color: #6593A6;
+}
+#mode-select:hover {
+    background-color: #58595B;
+    color: white;
+}
